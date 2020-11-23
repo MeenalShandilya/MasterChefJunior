@@ -1,2 +1,2 @@
 # MasterChefJunior
-Recipe for pizza.
+Recipe for Pizza.
